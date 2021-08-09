@@ -4,13 +4,18 @@
 “conflict and combat” is a mini game project where we derived the basic concept of two character fighting against each other from the very popular and simple Rock-paper-scissors game that is played by two people.
 ### SEMANTICS BEHIND THE GAME 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main algorithm includes making a 2-D matrix , converting it into a tupple then using it as conclusive fucntion
 
 ```markdown
-In our mini-project, we built a Python function that simulates playing a round of game aka “combat” by generating its own random choice from these alternatives character warriors we provided and then determining the winner using a simple rule that we will next describe
- While a simple Rock-paper-scissor has a set of three rules that logically determine who wins a round of  coding up these rules would require  of if/ elif/ else. We opted for simpler method for determining the winner is to assign each of the respective choices. 
-For example: choice number -7
- number:
+In our mini-project, we built a Python function that simulates playing a round of game aka “combat” by 
+generating its own random choice from these alternatives character warriors we provided and then determining 
+the winner using a simple rule.
+
+While a simple Rock-paper-scissor has a set of three rules that logically determine who wins a round of  coding up
+these rules would require  of if/ elif/ else. We opted for simpler method for determining the winner is to assign
+each of the respective choices. 
+
+For example: choice number -7 number:
 0 — character 1 
 1 — character 2 
 2 — character 3 
@@ -19,31 +24,24 @@ For example: choice number -7
 5— character 6
 6 — character 7
 
- 
-```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+then making a matirix to justify all the relationshtip between these characters.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Project explores various python concepts like :
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soumyaagr427/Conflict_and_Combat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Loops and conditons
+- Functions
+- Tuples
+- lists
+- Exception Handling
+- File Handling
+
+
+### OUTCOME
+
+During the building process of this project we came across a lot of problems in our code but we overcame those by going through the various topics related to our project. It have been great experience for us to get to know the industry level of programing and know how we can apply those concepts in real world projects
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having some quaries? you can reach us through our linkdin profile  [Soumya Agrawal](https://www.linkedin.com/in/soumyaagrawal427/) or [Sidhartha Parasramka](https://www.linkedin.com/in/sidhartha-parasramka/)and we’ll help you sort it out.
