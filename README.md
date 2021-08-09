@@ -7,12 +7,14 @@
 The main algorithm includes making a 2-D matrix , converting it into a tupple then using it as conclusive fucntion
 
 ```markdown
-In our mini-project, we built a Python function that simulates playing a round of game aka “combat” by 
-generating its own random choice from these alternatives character warriors we provided and then determining 
+In our mini-project, we built a Python function that simulates playing a
+round of game aka “combat” by generating its own random choice from these
+alternatives character warriors we provided and then determining 
 the winner using a simple rule.
 
-While a simple Rock-paper-scissor has a set of three rules that logically determine who wins a round of  coding up
-these rules would require  of if/ elif/ else. We opted for simpler method for determining the winner is to assign
+While a simple Rock-paper-scissor has a set of three rules that logically 
+determine who wins a round of  coding up these rules would require  of
+if/ elif/ else. We opted for simpler method for determining the winner is to assign
 each of the respective choices. 
 
 For example: choice number -7 number:
